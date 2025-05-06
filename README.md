@@ -21,3 +21,5 @@ A tela de login exibida na imagem contém os seguintes elementos principais:
 
 O principal objetivo desta tela é permitir que usuários previamente registrados acessem o sistema fornecendo suas credenciais de e-mail e senha. Os requisitos de senha visam garantir um nível básico de segurança, informando as regras diretamente ao usuário. A opção "Salvar meus dados" oferece conveniência para acessos repetidos.
  
+## Todos os créditos
+Ao curso Geração Tech
